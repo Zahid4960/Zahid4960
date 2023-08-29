@@ -1,6 +1,6 @@
 # Hello, I'm Zahid Hasan 👋
 
-Welcome to my GitHub profile! I'm a professional software engineer having industry experience of more than four years. I am very passionate about backend software development, have pretty much good knowledge & experience in frontend tech also like to play experiment with large amount data have keen interest for data analysis. I enjoy to listen songs and sometimes read books and watch documentries in my free time.
+Welcome to my GitHub profile! I'm a professional software engineer having industry experience of more than four years. I am very passionate about backend software development, have pretty much good knowledge & experience in frontend tech also like to experiment with large amount data, have keen interest for data analysis. I enjoy to listen songs and sometimes read books and watch documentries in my free time.
 
 <!--
 ## About Me
