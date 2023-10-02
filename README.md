@@ -1,16 +1,14 @@
 # Hello, I'm Zahid Hasan 👋
 
-Welcome to my GitHub profile! I'm a professional software engineer having industry experience of more than four years. I am very passionate about backend software development, have pretty much good knowledge & experience in frontend tech also like to experiment with large amount data, have keen interest for data analysis. I enjoy to listen songs and sometimes read books and watch documentries in my free time.
+Welcome to my LinkedIn profile! I'm a professional software engineer having industry experience of more than four years. I am very passionate about backend software development, have pretty good knowledge & experience in frontend tech, also like to experiment with large amount of data, have keen interest for data analysis. I enjoy to listen songs, sometimes read books and watch documentaries in my pastime.
 
-<!--
 ## About Me
 
-- 🔭 I’m currently working on [Current Project or Goal]
-- 🌱 I’m currently learning [What You're Learning]
-- 💬 Ask me about [Your Areas of Expertise]
-- 📫 How to reach me: [Your Contact Information]
-- 😄 Pronouns: [Your Pronouns]
+- 🔭 I’m currently working on https://github.com/Zahid4960/Leave_Tracker_Backend
+- 🌱 I’m currently learning Nodejs, Express, Javascript, MongoDB
+- 📫 How to reach me: zahidcse4960@gmail.com
 
+<!--
 ## My Projects
 
 ### [Project Name]
